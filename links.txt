@@ -49,7 +49,7 @@
         https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/http.txt
         https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt
         https://www.proxy-list.download/api/v1/get?type=https
-https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/http.txt
+        https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/http.txt
         https://raw.githubusercontent.com/saisuiu/Lionkings-Http-Proxys-Proxies/main/free.txt
         https://raw.githubusercontent.com/saisuiu/Lionkings-Http-Proxys-Proxies/main/cnfree.txt
         https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt
